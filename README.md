@@ -30,7 +30,7 @@
 <h2>👩‍💻 About Me</h2>
 
 - 🌱 I'm currently learning step by step through small projects  
-- 💼 Looking for an **Ausbildung in Germany**  
+- 💼 Seeking an Apprenticeship in Software & Application Development  
 - ⚡ Passionate about learning and improving every day  
 
 ---
