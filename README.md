@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  💻 Future Full-Stack Developer | 🇲🇦 Morocco → 🇩🇪 Germany
+  💻 Future Full-Stack Developer | 🇲🇦 Morocco 
 </h3>
 
 <p align="center">
