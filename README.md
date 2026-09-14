@@ -8,7 +8,11 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=22&center=true&vCenter=true&width=500&lines=Learning+Step+by+Step...;Building+Real+Projects...;Looking+for+Ausbildung+in+Germany" />
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=22&center=true&vCenter=true&width=900&lines=Learning+Step+by+Step...;Building+Real+Projects...;Seeking+an+Apprenticeship+in+Software+%26+Application+Development" />
+</p>
+
+
 </p>
 
 ---
